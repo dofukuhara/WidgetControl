@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">WidgetControl</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+
+    
+    <string name="button_normal">Normal Mode</string>
+    <string name="button_vibrate">Vibrate Mode</string>
+    <string name="button_siltent">Silent Mode</string>
+    
+    <string name="button_wifi_on">Wifi ON</string>
+    <string name="button_wifi_off">Wifi OFF</string>
+    <string name="button_wifi_unknown">Wifi in Unknown state!</string>
+</resources>
